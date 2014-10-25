@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Basic
+Basic. It looks white!
